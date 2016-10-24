@@ -1,5 +1,7 @@
 # loading-showcase
 
+You're on `gh-pages` branch. Are you looking for the source code [instead](https://github.com/rkunev/loading-showcase/tree/master)?
+
 > A Vue.js project
 
 ## Build Setup
